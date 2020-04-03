@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: effictive
+---
+testFramework: junit
+sourceLanguage: java
